@@ -39,3 +39,4 @@ The `.jar` file will be available in `target` directory.
 
 The static site files will be available in `target/reports/apidocs`.
 
+![CI/CD Pipeline](https://github.com/<username>/<repository>/actions/workflows/ci-cd.yml/badge.svg)
